@@ -1,0 +1,8 @@
+Dimensioni, Tempo, Noise, Tipo
+2+2->2, 6.1, 0.05, Somma
+2*2->2, 6.8, 0.05, Prodotto
+2-2->2, 7.2, 0.05, Sottrazione
+2-2-2->2, 10.5, 0.05, Sottrazione
+max 2 2, 12.4, 0.05, Max
+or, 2.8, 0.05, Or
+2>2->1, 9.7, 0.05, Maggiore
